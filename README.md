@@ -23,7 +23,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Walkthrough to Invest Or NOt Application](https://www.youtube.com/watch?v=LdamwyMDJ_s&ab_channel=TECHEXPLAINED)
+- [Walkthrough to Invest Or Not Application](https://www.youtube.com/watch?v=LdamwyMDJ_s&ab_channel=TECHEXPLAINED)
 - [Walkthrough to Help Me Talk Application](https://www.youtube.com/watch?v=Flig5tF5Vcs&ab_channel=TECHEXPLAINED)
 <!-- YOUTUBE:END -->
 
