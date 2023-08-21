@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=yousefzuriqi.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yousefzuriqi.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/usefz89?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=usefz89)
 
-## I'm a Husband, iOS Developer and Construction Engineer!!
+## I'm a Construction Manager, iOS Developer, husband and Tech lover.
 
 - 🔭 I just launched my Second App: [Invest Or Not][InvestOrNot]!
 - 🔭 This is the link for my first App: [Help Me Talk][HelpMeTalk]!
